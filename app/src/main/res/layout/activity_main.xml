@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <ImageView style="@style/background" />
+
+    <View
+        android:id="@+id/white_rectangle"
+        style="@style/view" />
+
+    <ImageView
+        android:id="@+id/logo"
+        style="@style/image_view" />
+
+    <ImageView
+        style="@style/divider1"/>
+
+    <TextView
+        android:id="@+id/description"
+        style="@style/description" />
+
+    <ImageView
+        style="@style/divider2"/>
+
+    <TextView
+        android:id="@+id/address"
+        style="@style/address"
+        android:text="@string/address" />
+
+    <TextView
+        style="@style/phone"
+        android:text="@string/phone" />
+
+    <TextView
+        style="@style/hours"
+        android:text="@string/hours" />
+
+    <TextView
+        style="@style/hours2"
+        android:text="@string/hours2" />
+
+
+</RelativeLayout>

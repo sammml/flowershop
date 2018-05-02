@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">flowershop</string>
+    <string name="address"><b>Address:</b> 8410 New Utrecht Avenue NY 11213</string>
+    <string name="phone"><b>Phone:</b> (718)256-8336</string>
+    <string name="description">New Utrecht Garden Center has been in business for 25 Years! We handle everything agriculture related. From floral arrangements to landscaping we service everyone! Here are some of our Special Services.</string>
+    <string name="hours">Hours: <b>Mon – Sat</b> 9:00am - 5:30pm</string>
+    <string name="hours2"><b>Sun</b> 9:00am - 3:00pm</string>
+</resources>
